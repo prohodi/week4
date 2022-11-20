@@ -58,3 +58,57 @@ font-feature-settings: 'pnum' on, 'lnum' on;
 
 color: #333333;
 }
+
+.input1{
+    width: 186px;
+height: 57px;
+    border: 1px solid #DFDFDE;
+border-radius: 15px;
+}
+select{
+    border: 1px solid #DFDFDE;
+    border-radius: 15px;
+    width: 266px;
+    height: 57px;
+}
+#button1{
+    width: 154px;
+height: 57px;
+
+/* зеленый */
+
+background: #0EB80E;
+border-radius: 15px;
+
+}
+
+.obrab{
+    font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+letter-spacing: -0.01em;
+
+/* 5f */
+
+color: #333333;
+
+opacity: 0.3;
+    
+}
+.obrab2{
+    text-decoration: none;
+    font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+letter-spacing: -0.01em;
+
+/* 5f */
+
+color: #333333;
+
+opacity: 0.3;
+}
