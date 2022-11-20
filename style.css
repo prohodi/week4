@@ -1,0 +1,50 @@
+.main{
+    background-image: url(./assets/Group\ 501.png);
+    width: 100%;
+    height: 100%;
+}
+.vosst1{
+    width: 501px;
+height: 119.52px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 300;
+font-size: 60px;
+line-height: 97.5%;
+}
+.vosst2{
+    
+height: 61.82px;
+left: 202px;
+top: 368.23px;
+
+font-family: 'Caveat';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 150%;
+/* or 60px */
+
+letter-spacing: 0.03em;
+
+/* зеленый */
+
+color: #0EB80E;
+}
+
+.menu{
+    font-family: 'Nunito';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 150%;
+/* identical to box height, or 22px */
+
+letter-spacing: 0.03em;
+
+/* 5f */
+
+color: #333333;
+
+}
