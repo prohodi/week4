@@ -71,14 +71,24 @@ select{
     width: 266px;
     height: 57px;
 }
-#button1{
+button{
     width: 154px;
 height: 57px;
 
-/* зеленый */
 
 background: #0EB80E;
 border-radius: 15px;
+border: 0;
+
+
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 27px;
+
+
+color: #FFFFFF;
+
 
 }
 
